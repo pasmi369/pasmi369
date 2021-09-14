@@ -11,7 +11,7 @@
   - My degrees were research-focused in engineering field.
   - I am prepared to write SQL commands, use Python-based scripts, and create in-depth data visualizations using Tableau from CSV files and APIs. 
 
-- [Resume](./Pasmina.sangani_Resume.pdf)
+- [Resume](./Pasmina.Sangani_Resume.pdf)
   
 - 📫 Contact Me: pasmina.sangani369@gmail.com
 
