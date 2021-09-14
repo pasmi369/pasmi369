@@ -1,16 +1,16 @@
-### Hi there 👋
 
 <!--
 **pasmi369/pasmi369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I'm @pasmi369
+- 🎓 Education:
+    - Certificate in Data Analytics & Visualization from Columbia Engineering 2021 
+    - Bachelor of Science in Computer Science - Rutgers University, NJ	
+    - Bachelor of Science in Accounting - R.A.Podar College, Mumbai - India
+- 💬 Introduction:
+  - My degrees were research-focused in engineering field.
+  - I am prepared to write SQL commands, use Python-based scripts, and create in-depth data visualizations from CSV files and APIs. 
+- 📫 Contact Me: pasmina.sangani369@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/pasmina-sangani-79308125/)   
+ 
