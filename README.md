@@ -1,5 +1,7 @@
 - 👋 Hi, I'm @pasmi369
 
+- 👀 I'm a passionate Data Analyst interested in finding a new career path.
+
 - 🎓 Education:
     - Certificate in Data Analytics & Visualization from Columbia Engineering 2021 
     - Bachelor of Science in Computer Science - Rutgers University, NJ	
