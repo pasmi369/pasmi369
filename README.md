@@ -3,7 +3,7 @@
 - 👀 I'm a passionate Data Analyst interested in finding a new career path.
 
 - 🎓 Education:
-    - Certified SAFe® 5 Scrum Master (Scaled Agile) 
+    - Certified SAFe® 5 Scrum Master (Scaled Agile) 2021
     - Certificate in Data Analytics & Visualization from Columbia Engineering 2021 
     - Bachelor of Science in Computer Science - Rutgers University, NJ	
     - Bachelor of Science in Accounting - R.A.Podar College, Mumbai - India
